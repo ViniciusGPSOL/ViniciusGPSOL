@@ -5,7 +5,7 @@ Welcome to the GitHub corral of **ViniciusGPSOL**. I'm a coding cowboy riding th
 ## 🔧 Tools of the Wild Web
 
 - **Programming Languages**: Python, JavaScript, C, and more.
-- **Technologies**: Node.js, REST, SOAP, Pandas and more.
+- **Technologies**: Node.js, REST, SOAP and Pandas.
 - **Tools & Platforms**: Git, Apache, PostgreSQL.
 
 ## 📈 GitHub Stats
