@@ -26,7 +26,7 @@ Welcome to the GitHub corral of **ViniciusGPSOL**. I'm a coding cowboy riding th
 ## 🌵 Fun Facts from the Outlaw’s Life
 
 - I’m a fan of [Magic: The Gathering](#).
-- I'm Always up for a [high noon duel](#).
+- Four cats adopted me, and now I live with them[(Sol, Café, Jhon and Zoe)].
 
 <div align="center">
   <a href="https://github.com/ViniciusGPSOL" >
