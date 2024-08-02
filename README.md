@@ -34,5 +34,3 @@ Welcome to the GitHub corral of **ViniciusGPSOL**. I'm a coding cowboy riding th
     Feel free to roam through my repositories and drop me a line if you wanna chat. Happy coding, partner!
   </a>
 </div>
-
-
