@@ -12,11 +12,12 @@ Welcome to the GitHub corral of **ViniciusGPSOL**. I'm a coding cowboy riding th
 
 <div align="center">
   <a href="https://github.com/ViniciusGPSOL" >
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ViniciusGPSOL&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/ >
-    <br>
-    <img src="https://github-profile-trophy.vercel.app/?username=MateusNicolodi&theme=algolia&row=2&no-bg=true&column=4&margin-w=15&margin-h=15"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ViniciusGPSOL&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/ >
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ViniciusGPSOL&layout=compact&langs_count=4&theme=tokyonight"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ViniciusGPSOL&theme=algolia&row=2&no-bg=true&column=4&margin-w=15&margin-h=15" />
   </a>
 </div>
+
 
 ## 🏇 How to Send a Smoke Signal
 
